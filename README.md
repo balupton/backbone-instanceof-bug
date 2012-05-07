@@ -5,7 +5,7 @@ Refer to issue [#1288](https://github.com/documentcloud/backbone/issues/1288) on
 To run:
 
 ```
-git clone repo
+git clone git://github.com/balupton/backbone-instanceof-bug.git backbone-instanceof-bug
 cd backbone-instanceof-bug
 make setup
 make test
