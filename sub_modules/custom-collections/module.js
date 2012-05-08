@@ -1,5 +1,5 @@
 // Requires
-var Backbone = require('backbone');
+var Backbone = require('backbone-ducktyped');
 
 // Create a Custom Collection
 var JingleCollection = Backbone.Collection.extend({

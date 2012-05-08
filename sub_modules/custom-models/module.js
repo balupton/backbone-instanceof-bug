@@ -1,5 +1,5 @@
 // Requires
-var Backbone = require('backbone');
+var Backbone = require('backbone-ducktyped');
 
 // Create a Custom Model
 var JingleModel = Backbone.Model.extend({
